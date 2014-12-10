@@ -1,0 +1,27 @@
+﻿#header,
+#footerContacts {
+    background-image: url(../images/headerBackground.jpg);
+}
+
+    #header > span {
+        font-weight: bold;
+        color: white;
+        text-align: right;
+    }
+
+#skills {
+    display: block;
+}
+
+.project-entry img {
+    height: 150px;
+}
+
+.inline {
+    display: inline;
+}
+
+
+.map-tooltip {
+    width: 300px;
+}
